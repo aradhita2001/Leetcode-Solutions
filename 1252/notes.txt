@@ -1,0 +1,1 @@
+Solution.java uses Arrays while Solution1.java uses HashMap for storing the increment counts.

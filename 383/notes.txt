@@ -1,0 +1,5 @@
+Solution.java takes less time as time complexity is O(n).
+Solution2.java takes more time as it takes O(n) to find the index inside the for loop.
+
+Solution.java creates 3 int arrays of length 26 each. so its space complexity is O(1).
+Solution2.java recreates the String for every iteration of the for loop. so its space complexity is O(n).
