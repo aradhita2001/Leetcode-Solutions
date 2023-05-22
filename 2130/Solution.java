@@ -21,7 +21,7 @@ class Solution {
         Queue<Integer> queue = new LinkedList<Integer>();
 
         while(head != null){
-            stack.push(head.val);
+            stack.push(head.val);   
             queue.add(head.val);
 
             count++;
